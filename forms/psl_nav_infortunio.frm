@@ -1,0 +1,13 @@
+extendsID:"581499C7-E341-424D-BDC3-885F39F2179A",
+items:[
+{
+extendsID:"0EA243E4-991F-4A32-9943-9C81F0CCB7C3",
+location:"0,0",
+typeid:7,
+uuid:"7F1D871E-0A89-4B99-B97B-94788C5E69CC"
+}
+],
+name:"psl_nav_infortunio",
+styleName:"psl",
+typeid:3,
+uuid:"E237B404-15D1-44EE-8E99-5AA5582B8E87"
